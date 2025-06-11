@@ -8,11 +8,6 @@ public class Remove_Dupli {
         for (int i = 0; i < n; i++) {
             array[i] = sc.nextInt;
 
-
-
-
-
-            kuhiuh
         }
         
     } 
