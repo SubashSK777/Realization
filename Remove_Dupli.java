@@ -7,6 +7,12 @@ public class Remove_Dupli {
         int[] array = [0] * n;
         for (int i = 0; i < n; i++) {
             array[i] = sc.nextInt;
+
+
+
+
+
+            kuhiuh
         }
         
     } 
